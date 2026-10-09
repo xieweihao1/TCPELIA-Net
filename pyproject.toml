@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tcpelia-attention"
+version = "0.1.0"
+description = "Thalamo-Cortical Predictive Error Lateral-Inhibition Attention (research implementation)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["torch>=2.0"]
+license = {text = "MIT"}
+keywords = ["attention", "pytorch", "predictive coding", "lateral inhibition", "visual defect detection"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[tool.setuptools]
+packages = ["tcpelia"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
