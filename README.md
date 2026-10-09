@@ -202,11 +202,11 @@ For step-by-step GitHub publishing instructions, see [the Windows/PowerShell gui
 
 ## Citation
 
-If this code supports your research, please cite the associated article **once bibliographic information is finalized**. A DOI, author list, BibTeX entry, and journal status have intentionally not been invented for this release.
+Author, official title, publication details, DOI, and other information will be added and updated after the paper is accepted.
 
 ## License
 
-This draft repository contains a proposed [MIT License](LICENSE). Before public release, verify the rights of all contributors and replace the provisional copyright holder text as needed.
+This draft repository contains a proposed [MIT License](LICENSE). 
 
 ## Acknowledgment
 
