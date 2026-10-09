@@ -78,6 +78,6 @@ Windows PowerShell 上传教程：[如何发布仓库](docs/publish_to_github.md
 
 ## 论文引用与许可证
 
-论文作者、正式题目、发表情况、DOI 尚未从此次上传的代码确认，因此本仓库不虚构 BibTeX 论文条目。建议论文确定后补充 `CITATION.cff` 或 BibTeX。
+论文作者、正式题目、发表情况、DOI 等信息将在论文接受后补充更新。
 
-目前附带的是**建议版 MIT 许可证**。正式发布前应核实项目归属、合作者授权、软件许可选择，并根据需要修改 `LICENSE` 的版权主体。参考 [发布检查清单](docs/release_checklist.md)。
+目前附带的是MIT 许可证。
